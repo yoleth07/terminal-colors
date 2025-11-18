@@ -11,12 +11,12 @@ int main(void) {
     print_divider();
 
     // TODO: Set the text color to GREEN using the library function
-    set_text_color(Green);
+    set_text_color(GREEN);
     
     printf("System Status: ONLINE\n");
 
     // TODO: Set the text color to RED using the library function
-    se_text_color(Red);
+    se_text_color(RED);
     
     printf("Alert: Modular compilation in progress...\n");
 
